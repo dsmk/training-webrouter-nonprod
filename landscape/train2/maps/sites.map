@@ -2227,5 +2227,5 @@ _/burppe content ;  # top-level
 ### 1 type 
 ### 557 redirect2lower 
 _/av/courses content-nocache ; #weblogin loop experienced, trying nocache to test
-### train 2 class test Rudi + Bob + Nik
+### train 2 class test Rudi + Bob + Nik -pass2
 _/testurl content
