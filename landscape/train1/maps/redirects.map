@@ -6,5 +6,6 @@
 _/studentlink /link/bin/uiscgi_studentlink.pl/uismpl/?ModuleName=menu.pl&NewMenu=Home ;
 _/geography/brdf http://www-modis.bu.edu/brdf ;
 
-# Adding for dsmk ex 3 ( scottm )
-_dsmk http://www.bu.edu/phpbin/directory/?q=David+King ;
+# Adding for dsmk ex 3 ( scottm ) new adding the slash
+_/dsmk http://www.bu.edu/phpbin/directory/?q=David+King ;
+
